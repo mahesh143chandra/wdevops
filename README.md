@@ -2,9 +2,7 @@
 # Abuse in Transaction Description Detection (AITD)
 
 
-test
-
-.
+Family and domestic violence is a critical global issue that affects millions, with the WHO reporting 1 in 3 women and 1 in 13 men worldwide have experiences physical violence in their lifetime. In Australia alone around 3.6 million people have experienced emotional abuse from a partner [[1]](#references).
 
 Technology-assisted abuse has been identified within financial institutions, where real-time transactions, typically of low value, were used as a form of communication. In some instances the communication was a targeted form of domestic and family violence. To tackle this problem, [Commonwealth Bank of Australia](https://www.commbank.com.au) (CommBank) experts have created novel AI methods to detect abuse in transactions and embedded it in their internal processes [[5]](https://www.commbank.com.au/articles/newsroom/2021/10/artificial-intelligence-detects-abusive-behaviour.html). The model is fully operational, detecting more than 1,500 cases per year [[2]](https://www.commbank.com.au/articles/newsroom/2023/08/next-chapter-nsw-police-pilot.html). 
 
